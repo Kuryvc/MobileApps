@@ -1,16 +1,24 @@
-# actity1
+# TAREA 1 | CONOCIENDO SCAFFOLD Y WIDGETS 
 
-A new Flutter project.
+- Uso de Scaffold.
+- Uso de widgets visibles y de distribución.
+- Uso de íconos, botones, texto y snackbars.
 
-## Getting Started
+## Lo que me constó más trabajo 
+- El tema de los botones para que al hacer click estos cambiaran de color y se vieran desplegados los snackbars. Fue necesario hacer una investigación y comprender cómo está construida la aplicación, sus clases y el uso de funciones internos, siguiendo la programación orientada a objetos. 
 
-This project is a starting point for a Flutter application.
+## Lo que aprendí 
 
-A few resources to get you started if this is your first Flutter project:
+Aprendí la estructura principal para construir una app utilizando dart, el uso de varios de los widgets más comunes como row, column, icon, text, y cómo se deben ir relacionando y acomodando entre sí para lograr los diseños deseados. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## Referencias
+“Widget catalog”. Flutter documentation | Flutter. Accedido el 27 de enero de 2024. [En línea]. Disponible: https://docs.flutter.dev/ui/widgets
+
+
+
+
