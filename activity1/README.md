@@ -4,7 +4,7 @@
 - Uso de widgets visibles y de distribución.
 - Uso de íconos, botones, texto y snackbars.
 
-## Lo que me constó más trabajo 
+## Lo que me contó más trabajo 
 - El tema de los botones para que al hacer click estos cambiaran de color y se vieran desplegados los snackbars. Fue necesario hacer una investigación y comprender cómo está construida la aplicación, sus clases y el uso de funciones internos, siguiendo la programación orientada a objetos. 
 
 ## Lo que aprendí 
