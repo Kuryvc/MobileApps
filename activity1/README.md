@@ -13,7 +13,11 @@ Aprendí la estructura principal para construir una app utilizando dart, el uso 
 
 ## Screenshots 
 
+https://github.com/Kuryvc/MobileApps/assets/90404985/b7992e30-51e3-4329-b49e-7c2b9781fa75
 
+![activit1_1](https://github.com/Kuryvc/MobileApps/assets/90404985/53448285-026a-4a53-97f4-7eca2d21291e)
+
+![activity1_2](https://github.com/Kuryvc/MobileApps/assets/90404985/63882038-5d2a-4c2d-991c-6b2b998fbfb5)
 
 
 ## Referencias
