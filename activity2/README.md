@@ -22,6 +22,10 @@ https://github.com/Kuryvc/MobileApps/assets/90404985/c78fceab-9acc-4b1b-b4c3-a95
 
 ![activity2_2](https://github.com/Kuryvc/MobileApps/assets/90404985/81652eb6-6a95-45e3-93af-a4e5b0041aa9)
 
+# OverFlow
+
+Durante esta tarea me enfrenté a un error al estar generando y mostrando el ListView que contenía ListTiles, referente a que al viewport no se le había dado un tamaño fijo. Esto estaba ocurriendo ya que cada elemento que iba creando representaba un hijo de mi Contenedor principal, pero en este caso, el ListView, cuando viene el tiempo renderizarse, este widget pide al padre todo el espacio disponible posible, dejando sin campo a todos los demás, o incluso tendiendo al infinito. Por lo tanto, la solución fue ser lo más explícitio posible, encapsulando al ListView en un Expanded. 
+
 ## Referencias
 “Widget catalog”. Flutter documentation | Flutter. Accedido el 27 de enero de 2024. [En línea]. Disponible: https://docs.flutter.dev/ui/widgets
 
