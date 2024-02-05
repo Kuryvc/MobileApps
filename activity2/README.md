@@ -16,6 +16,11 @@ Aprendí a hacer uso del widget ListTile, exploré más estilos, ya no solo en e
 
 ## Screenshots 
 
+https://github.com/Kuryvc/MobileApps/assets/90404985/c78fceab-9acc-4b1b-b4c3-a953326383e2
+
+![activity2_1](https://github.com/Kuryvc/MobileApps/assets/90404985/91520b25-6876-4cd8-bf07-15af7f318285)
+
+![activity2_2](https://github.com/Kuryvc/MobileApps/assets/90404985/81652eb6-6a95-45e3-93af-a4e5b0041aa9)
 
 ## Referencias
 “Widget catalog”. Flutter documentation | Flutter. Accedido el 27 de enero de 2024. [En línea]. Disponible: https://docs.flutter.dev/ui/widgets
