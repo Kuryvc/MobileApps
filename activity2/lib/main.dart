@@ -262,13 +262,14 @@ class WeatherList extends StatelessWidget {
 
   void showWeatherSnackBar(
       BuildContext context, String day, String temperature) {
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
-        content: Text('$day          $temperature'),
-        duration: Duration(seconds: 1),
-        behavior: SnackBarBehavior.floating,
-      ),
-    );
+    ScaffoldMessenger.of(context)
+      ..hideCurrentSnackBar()
+      ..showSnackBar(
+        SnackBar(
+          content: Text('$day          $temperature'),
+          behavior: SnackBarBehavior.floating,
+        ),
+      );
   }
 
   @override
