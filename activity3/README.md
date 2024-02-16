@@ -1,16 +1,26 @@
-# activity3
+# TAREA 2 | ANALIZANDO LAYOUTS 
 
-A new Flutter project.
+- Uso de Scaffold.
+- Uso de widgets visibles y de distribución.
+- Extracción de widgets a otras clases.
+- Uso de botones, texto, assets. 
+- Estilizado en widgets como contenedores, textos. 
+- Uso de ListView y ListTile
 
-## Getting Started
+## Lo que me costó más trabajo 
+- Lo que más se me complicó en esta tarea fue el uso de assets, para lo había que modificar el archivo .yaml para agregar los assets y poder utilizarlos en la aplicación. Retomé el uso de ListTiles y del ListViewBuilder con mayor facilidad para generar los registros con ese widget y no de forma estática. 
 
-This project is a starting point for a Flutter application.
+## Lo que aprendí 
 
-A few resources to get you started if this is your first Flutter project:
+Aprendí a utilizar assets para importar imágenes locales y hacer uso de ellas en la aplicación. También aprendí a verificar el tema de overflow cuando el dispositivo esté volteado, asegurando el funcionamiento en ambos modos. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Referencias
+“Widget catalog”. Flutter documentation | Flutter. Accedido el 27 de enero de 2024. [En línea]. Disponible: https://docs.flutter.dev/ui/widgets
+
+
+
+
