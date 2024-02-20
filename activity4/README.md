@@ -1,4 +1,4 @@
-# TAREA 2 | ANALIZANDO LAYOUTS 
+# TAREA 4 | CRYPTO LOOK 
 
 - Uso de Scaffold.
 - Uso de widgets visibles y de distribución.
@@ -15,6 +15,11 @@
 Aprendí a utilizar los assets, en este caso un archivo .dart pero a manera de JSON, conteniendo diferentes objectos y elementos a los que se podía acceder a su información para ser mostrada en la aplicación. Utilicé de nuevo el ListViewBuilder para recorrer los elementos del objeto y mostrar en pantalla su imagen, título y demás información. 
 
 ## Screenshots 
+![activity4_1](https://github.com/Kuryvc/MobileApps/assets/90404985/5be51051-1634-4882-bf86-3ee3e6952120)
+![activity4_2](https://github.com/Kuryvc/MobileApps/assets/90404985/f4fa486a-31f0-40bb-bd7f-ef2e4915555c)
+
+https://github.com/Kuryvc/MobileApps/assets/90404985/1b0ed6c2-3144-4565-ad4b-87899ddbbc86
+
 
 
 ## Referencias
