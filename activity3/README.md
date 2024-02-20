@@ -1,4 +1,4 @@
-# TAREA 3 | ANALINEACIONES Y ESTILOS 
+# TAREA 3 | ALINEACIONES Y ESTILOS 
 
 - Uso de Scaffold.
 - Uso de widgets visibles y de distribución.
@@ -16,7 +16,9 @@ Aprendí a utilizar assets para importar imágenes locales y hacer uso de ellas 
 
 ## Screenshots 
 
+https://github.com/Kuryvc/MobileApps/assets/90404985/83f0a799-6342-4acd-a531-3e353c10bbea
 
+https://github.com/Kuryvc/MobileApps/assets/90404985/801a2957-4752-4059-86d3-f5645ffd3809
 
 ## Referencias
 “Widget catalog”. Flutter documentation | Flutter. Accedido el 27 de enero de 2024. [En línea]. Disponible: https://docs.flutter.dev/ui/widgets
