@@ -1,16 +1,23 @@
-# fire_notes_app
+# TAREA 6 | NOTES APP 
 
-A new Flutter project.
+- Uso de Scaffold.
+- Uso de widgets visibles y de distribución.
+- Extracción de widgets a otras clases
+- Uso de texto, assets, imágenes y comunicación entre páginas.
+- Estilizado en widgets como contenedores, textos. 
+- Uso de ListView y ListTile, 
+- Uso de provider
+- Uso de Navigator
+- Uso de Firebase y FireStore
 
-## Getting Started
+## Lo que me costó más trabajo 
+-En lo que más dediqué tiempo fue en la implementación de la búsqueda y ordenamiento de las notas. A pesar de que el llamar los métodos de firestore en una colección es bastante sencillo, para poder utilizar un where junto a un order by en un query, era necesario crear un índice en la consola de firebase. 
 
-This project is a starting point for a Flutter application.
+## Lo que aprendí 
+Aprendí a vincular firestore ocn uan aplicación y a generar queries, no sólo de búsqueda de elementos, sino también para actualizar, eliminar, buscar, ordenar, etc. Haciendo uso también de la autenticación de firebase para llamar solo los elementos vinculados a un usuario en específico. 
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Referencias
+“Widget catalog”. Flutter documentation | Flutter. Accedido el 27 de enero de 2024. [En línea]. Disponible: https://docs.flutter.dev/ui/widgets
