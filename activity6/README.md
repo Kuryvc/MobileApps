@@ -18,6 +18,7 @@ Aprendí a vincular firestore ocn uan aplicación y a generar queries, no sólo 
 
 ## Screenshots 
 
+https://github.com/Kuryvc/MobileApps/assets/90404985/45a0c3d6-cc14-4e0d-b184-ea94e26b98b1
 
 ## Referencias
 “Widget catalog”. Flutter documentation | Flutter. Accedido el 27 de enero de 2024. [En línea]. Disponible: https://docs.flutter.dev/ui/widgets
